@@ -1,0 +1,8 @@
+UserAgents: *
+Disallow: /account/userdata/
+Disallow: /assets/images/
+Disallow:/assets/fonts/
+Disallow: /https://www.cs.odu.edu/~cs_nande010/epsilon/robots.txt
+
+# Provides location of SiteMap
+SiteMap: /https://www.cs.odu.edu/~cs_nande010/epsilon/legal/sitemap.xml

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://www.cs.odu.edu/~cs_nande010/epsilon/index.php?p=i</loc>
+    </url>
+    <url>
+        <loc>https://www.cs.odu.edu/~cs_nande010/epsilon/features/index.php?p=f</loc>
+    </url>
+    <url>
+        <loc>https://www.cs.odu.edu/~cs_nande010/epsilon/options/index.php?p=o</loc>
+    </url>
+    <url>
+        <loc>https://www.cs.odu.edu/~cs_nande010/epsilon/pricing/index.php?p=p</loc>
+    </url>
+    <url>
+        <loc>https://www.cs.odu.edu/~cs_nande010/epsilon/downloads/index.php?p=d</loc>
+    </url>
+    <url>
+        <loc>https://www.cs.odu.edu/~cs_nande010/epsilon/about/index.php?p=a</loc>
+    </url>
+    <url>
+        <loc>https://www.cs.odu.edu/~cs_nande010/epsilon/account/register.php</loc>
+    </url>
+    <url>
+        <loc>https://www.cs.odu.edu/~cs_nande010/epsilon/legal/terms-conditions.php</loc>
+    </url>
+    <url>
+        <loc>https://www.cs.odu.edu/~cs_nande010/epsilon/legal/privacy-policy.php</loc>
+    </url>
+</urlset>
